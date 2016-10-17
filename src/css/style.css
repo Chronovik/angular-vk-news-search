@@ -1,0 +1,23 @@
+.carousel-cell {
+  height: 200px;
+  width: 100%;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.main-carousel  {
+    width: 300px;
+}
+
+.flickity-prev-next-button.previous {
+  left: -60px;
+}
+
+.flickity-prev-next-button.next {
+  right: -60px;
+}
+
+.pagination__counter {
+  display: inline-block;
+  margin: 0 10px;
+}

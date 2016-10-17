@@ -1,0 +1,35 @@
+{
+  "name": "vk-news",
+  "version": "1.0.0",
+  "description": "vk news search app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --colors",
+    "build": "webpack"
+  },
+  "author": "V Matiukha",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-route": "1.5.8",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-runtime": "^6.11.6",
+    "bootstrap": "3.3.7",
+    "css-loader": "^0.25.0",
+    "flickity": "2.0.4",
+    "jquery": "^3.1.1",
+    "magnific-popup": "^1.1.0",
+    "script-loader": "^0.7.0",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
